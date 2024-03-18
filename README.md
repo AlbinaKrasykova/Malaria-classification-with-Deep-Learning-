@@ -1,5 +1,6 @@
 # Malaria-classification-with-Deep-Learning- 🦟
 The project with the focus on classifying healthy/infected cells using CNN in python 
+<br>
 Have achieved 93.85 % accuracy 
 
 ![Malaria](https://github.com/AlbinaKrasykova/Malaria-classification-with-Deep-Learning-/blob/main/Uninfected.png)
